@@ -1,0 +1,147 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    }
+#wrapper{
+    width: 970px;
+    background-color: #265279;
+    margin: auto; 
+}
+.text_size{
+    object-position: right;
+    margin-right: 20px;
+    text-align: right;
+    color: white;
+}
+a.size{
+    color: rgb(250, 228, 29);
+}
+.nav2{
+    padding: 20px;
+}
+.search{
+    vertical-align: top;
+    display: inline-block;
+}
+.logo{
+    width: 50%;
+}
+.search_go{
+    padding: 10px;
+    background-color: rgb(71, 71, 71);
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+#searchform{
+    padding: 8px;
+    text-align: center;
+}
+button{
+    margin: 10px;
+    padding: 5px;
+    background-color: blue;
+    border-radius: 8px;
+}
+.menu{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(173, 191, 230);
+    border-radius: 10px;
+    font-size: 20px; 
+}
+ul.menu li{
+    list-style-type: none;
+    display: inline;
+    padding-inline-start: 50px;   
+}
+li{
+    color: white;
+    text-align: justify;
+}
+header{
+    margin: 20px;
+    display: flex;
+}
+.menu2{
+    display: inline-block;
+    padding: 20px;
+    padding-top: 20px;
+    height: 150px;
+    margin-top: 0px;
+}
+.submenu{
+    display: inline-block;
+    width: 200px;
+    padding-top: 0px;
+}
+.a{
+    list-style-type: none;
+    text-align: center;
+    color: white; 
+    
+}
+.info{
+    display: inline-block;
+    padding-top:  20px;
+    width: 680px;
+    text-align: center;
+    color: white;
+}
+span{
+    color: yellow;
+}
+.b{
+    color: rgba(255, 255, 0, 0.575);
+}
+.target{
+    background-color: white;
+    display: flex;
+}    
+section{
+    min-height: 50px ;
+    display: inline-block;
+    width: 470px;
+    margin: 5px;
+    text-align: center;
+}
+span.resaltado{
+    color: rgb(92, 92, 184);
+}
+.x{
+    height: 200px;
+}
+.card{
+    margin: 20px;
+    
+}
+.y{
+    margin-top: 20px;
+}
+.titulo_card{
+    margin: 10px;
+}
+hr{
+    background-color: rgb(84, 154, 177);
+    height: 2px;
+}
+.lista_card{
+    color: royalblue;
+    list-style-type: none;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    margin: 30px 10px 30px 10px;
+}
+footer > h5{
+    color: lightblue;
+    display: inline-block;
+    width: 30%;
+}
+footer > h6{
+    color: lightblue;
+    margin-top: 10px;
+}
+
+
